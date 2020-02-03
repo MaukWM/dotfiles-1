@@ -1,2 +1,2 @@
-set -x EDITOR nano
+set -x EDITOR vim
 set -x TERMINAL termite
